@@ -1,0 +1,14 @@
+for backend:
+
+python 3.12.2
+
+major libraries --> scikit-learn
+	            tensorflow
+		    matplotlib
+
+jupyter notebook
+visual studio code
+
+for frontend:
+
+streamlit
